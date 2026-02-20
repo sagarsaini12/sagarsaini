@@ -1,18 +1,76 @@
-# 💫 About Me:
-🎓 B.Tech Computer Science Engineering (2026) - COER<br><br>💻 Passionate Full Stack Developer focused on building scalable web applications.<br><br>🌱 Currently learning Advanced React, Backend Development & System Design.<br><br>🚀 Strong foundation in Java, JavaScript, Data Structures & OOP.<br><br>🎯 Goal: To get placed in a reputed IT company and work on real-world impactful projects.<br><br>📫 Reach me at: sagarsaini96390@gmail.com<br>
+## Portfolio Website For Developers 💯
+
+**UPDATE:**
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sagar Saini) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Sagarsaini063) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sagarsaini77678) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sagarsaini) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sagar Saini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarsaini96390@gmail.com) 
+1. Wrote a detailed blog on [freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/), describing and explaining how I built this application from the ground up.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sagarsaini12&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sagarsaini12&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsaini12&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+2. Included the `constants` folder, where you can directly add your details and it'll get reflected throughout the application. No more customizations for the template required, just add your data and it'll reflect immediately.
 
----
-[![](https://visitcount.itsvg.in/api?id=sagarsaini12&icon=0&color=0)](https://visitcount.itsvg.in)
+Portfolio for developers is a simple and minimalistic website to showcase your skills and projects as a developer. The design is inspired by [Kevin Clark](https://kevinclark.ca). The website is completely Open Source, you can use it for whatever purpose you want.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># sagarsaini
+![HomeGif](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/websitegif.gif)
+
+# Features
+
+- Responsive layout, works well on both Mobile and Desktop
+- Dark mode support. Click buttons to toggle dark mode and light mode.
+- Clear React components and tailwind styling.
+- Exact sections that a developer needs to showcase their skills.
+- Clear call to actions.
+
+# Pages
+
+I've kept the pages as simple as possible. Only the required sections are included with minimal content.
+
+## Landing
+
+![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/home.png)
+
+## About
+
+![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/about.png)
+
+## Projects
+
+![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/projects.png)
+
+## Experience
+
+![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/experience.png)
+
+## Contact
+
+![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/contact.png)
+
+# Tech Stack
+
+The website is built in my favourite Tech Stack and deployed on [Vercel](https://vercel.com)
+
+- [Next.js](https://nextjs.org) for building React Components.
+- [tailwindcss](https://tailwindcss.com) for styling.
+- [React Rough Notation](https://roughnotation.com) for Hero section highlighting.
+- [Vercel](https://vercel.com) for deployments and CI/CD.
+
+# Usage
+
+- Clone the repository using `git clone https://github.com/manuarora700/simple-developer-portfolio-website.git`
+- Install all the modules by using `npm i` or `npm install` or `yarn`
+- Run the local development server by using `npm run dev` or `yarn dev`
+- Make the required edits and deploy to YOUR GitHub repo for CI/CD.
+
+# Deployment
+
+Deployment can be done in 3 easy steps.
+
+- Login to [Vercel](https://vercel.com) or signup for an account if you don't have one.
+- Create a `New Project` and select YOUR GitHub repository of the portfolio project.
+- Wait for Vercel to deploy your project to production.
+
+# License
+
+This template is completely open source and free to use. Use it for client projects or your own portfolio project. Give me credits at the footer (If you wish, it'll help me a lot :)).
+
+# Support
+
+<a href="https://www.buymeacoffee.com/manuarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
