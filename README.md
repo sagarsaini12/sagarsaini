@@ -8,7 +8,6 @@ I am a Full Stack Developer and B.Tech CSE student passionate about building mod
 
 I enjoy solving real-world problems and continuously improving my development skills.
 
-<img width="1733" height="821" alt="Screenshot 2026-02-20 182556" src="https://github.com/user-attachments/assets/69f16ab7-5dac-4a21-89c0-0b78163ba9ee" />
 
 <img width="1698" height="861" alt="Screenshot 2026-02-20 142509" src="https://github.com/user-attachments/assets/a35c67e5-3b07-4c02-8dfe-a29f60bda169" />
 
@@ -47,4 +46,5 @@ I enjoy solving real-world problems and continuously improving my development sk
 ---
 
 ⭐ Feel free to explore and connect with me!
+
 
